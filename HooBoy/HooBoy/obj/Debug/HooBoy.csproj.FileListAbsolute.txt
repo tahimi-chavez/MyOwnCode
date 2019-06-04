@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\HooBoy\HooBoy\bin\Debug\HooBoy.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\HooBoy\HooBoy\bin\Debug\HooBoy.exe
+c:\users\admin\documents\visual studio 2012\Projects\HooBoy\HooBoy\bin\Debug\HooBoy.pdb
+c:\users\admin\documents\visual studio 2012\Projects\HooBoy\HooBoy\obj\Debug\HooBoy.exe
+c:\users\admin\documents\visual studio 2012\Projects\HooBoy\HooBoy\obj\Debug\HooBoy.pdb
