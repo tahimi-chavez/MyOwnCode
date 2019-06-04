@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\IndexersAreABlast\IndexersAreABlast\bin\Debug\IndexersAreABlast.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\IndexersAreABlast\IndexersAreABlast\bin\Debug\IndexersAreABlast.exe
+c:\users\admin\documents\visual studio 2012\Projects\IndexersAreABlast\IndexersAreABlast\bin\Debug\IndexersAreABlast.pdb
+c:\users\admin\documents\visual studio 2012\Projects\IndexersAreABlast\IndexersAreABlast\obj\Debug\IndexersAreABlast.exe
+c:\users\admin\documents\visual studio 2012\Projects\IndexersAreABlast\IndexersAreABlast\obj\Debug\IndexersAreABlast.pdb
