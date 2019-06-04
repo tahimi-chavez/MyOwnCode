@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\GiveMeSomeInterface\GiveMeSomeInterface\bin\Debug\GiveMeSomeInterface.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\GiveMeSomeInterface\GiveMeSomeInterface\bin\Debug\GiveMeSomeInterface.exe
+c:\users\admin\documents\visual studio 2012\Projects\GiveMeSomeInterface\GiveMeSomeInterface\bin\Debug\GiveMeSomeInterface.pdb
+c:\users\admin\documents\visual studio 2012\Projects\GiveMeSomeInterface\GiveMeSomeInterface\obj\Debug\GiveMeSomeInterface.exe
+c:\users\admin\documents\visual studio 2012\Projects\GiveMeSomeInterface\GiveMeSomeInterface\obj\Debug\GiveMeSomeInterface.pdb
