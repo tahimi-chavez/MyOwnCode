@@ -1,0 +1,7 @@
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleApplication3\CheckTests\bin\Debug\CheckTests.dll
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleApplication3\CheckTests\bin\Debug\CheckTests.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleApplication3\CheckTests\bin\Debug\ConsoleApplication3.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleApplication3\CheckTests\bin\Debug\ConsoleApplication3.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleApplication3\CheckTests\obj\Debug\CheckTests.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleApplication3\CheckTests\obj\Debug\CheckTests.dll
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleApplication3\CheckTests\obj\Debug\CheckTests.pdb
