@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2012\Projects\FirstEDM\FirstEDM\bin\Debug\FirstEDM.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\FirstEDM\FirstEDM\bin\Debug\FirstEDM.exe
+c:\users\admin\documents\visual studio 2012\Projects\FirstEDM\FirstEDM\bin\Debug\FirstEDM.pdb
+c:\users\admin\documents\visual studio 2012\Projects\FirstEDM\FirstEDM\bin\Debug\EntityFramework.dll
+c:\users\admin\documents\visual studio 2012\Projects\FirstEDM\FirstEDM\bin\Debug\EntityFramework.xml
+c:\users\admin\documents\visual studio 2012\Projects\FirstEDM\FirstEDM\obj\Debug\FirstEDM.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\FirstEDM\FirstEDM\obj\Debug\FirstEDM.exe
+c:\users\admin\documents\visual studio 2012\Projects\FirstEDM\FirstEDM\obj\Debug\FirstEDM.pdb
