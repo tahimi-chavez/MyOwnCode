@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\FunWithExceptions\FunWithExceptions\bin\Debug\FunWithExceptions.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\FunWithExceptions\FunWithExceptions\bin\Debug\FunWithExceptions.exe
+c:\users\admin\documents\visual studio 2012\Projects\FunWithExceptions\FunWithExceptions\bin\Debug\FunWithExceptions.pdb
+c:\users\admin\documents\visual studio 2012\Projects\FunWithExceptions\FunWithExceptions\obj\Debug\FunWithExceptions.exe
+c:\users\admin\documents\visual studio 2012\Projects\FunWithExceptions\FunWithExceptions\obj\Debug\FunWithExceptions.pdb
