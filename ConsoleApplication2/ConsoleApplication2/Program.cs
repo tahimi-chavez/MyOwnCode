@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,7 +14,12 @@ namespace ConsoleApplication2
         {
             Cars myCar = Cars.Jeep;
             Cars myCar2 = Cars.myCar;
-            DayOfWeek
+
+            if (myCar.Equals(myCar2))
+                Console.WriteLine("Cars ar equal");
+            else
+                Console.WriteLine("Cars ar not the same branch");
+            Console.Read();
         }
     }
 }
